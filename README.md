@@ -7,7 +7,7 @@ Currently working on Fourier Neural Operators with physical constraints for PDE 
 #### Projects
 
 - [FNO Constraints](https://github.com/RowdeyGoos/thesis-fno-constraints) - Physical constraints for Fourier Neural Operators in PDE solving.
-- [StS Agent](https://github.com/RowdeyGoos/StS_agent) - Slay-the-Spire-style combat simulator for reinforcement learning experiments.
+- [StS Agent](https://github.com/RowdeyGoos/StS_agent) - Ongoing reinforcement learning project built around a Slay-the-Spire-style combat simulator.
 - [Adversarial Autoencoders](https://github.com/RowdeyGoos/adversarial-autoencoders-dimensionality-reduction) - PyTorch implementation of AAE-based dimensionality reduction on MNIST.
 - [Broccoli Two-Sided Pruning](https://github.com/RowdeyGoos/broccoli-two-sided-pruning) - Extensions for decision-tree policy synthesis with bidirectional threshold exploration.
 
