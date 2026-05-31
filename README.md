@@ -1,16 +1,20 @@
-## Hi there 👋
+Studying MSc Data Science & AI @ TU Delft.
 
-<!--
-**RowdeyGoos/RowdeyGoos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Interested in Machine Learning, Scientific Machine Learning, Reinforcement Learning, and AI agents.
 
-Here are some ideas to get you started:
+Currently working on Fourier Neural Operators with physical constraints for PDE solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Projects
+
+- [FNO Constraints](https://github.com/RowdeyGoos/thesis-fno-constraints) - Physical constraints for Fourier Neural Operators in PDE solving.
+- [StS Agent](https://github.com/RowdeyGoos/StS_agent) - Slay-the-Spire-style combat simulator for reinforcement learning experiments.
+- [Adversarial Autoencoders](https://github.com/RowdeyGoos/adversarial-autoencoders-dimensionality-reduction) - PyTorch implementation of AAE-based dimensionality reduction on MNIST.
+- [Broccoli Two-Sided Pruning](https://github.com/RowdeyGoos/broccoli-two-sided-pruning) - Extensions for decision-tree policy synthesis with bidirectional threshold exploration.
+
+#### Hackathons
+
+- Finalist @ Prosus & AISO AI University Games Hackathon (2025) — built [Gradent Study Assistant](https://github.com/flatala/gradent).
+
+#### Connect
+
+[LinkedIn](https://www.linkedin.com/in/rowdey-goos) · [Email](mailto:rowdey_goos@hotmail.com)
