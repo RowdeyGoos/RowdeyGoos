@@ -13,7 +13,7 @@ Currently working on Fourier Neural Operators with physical constraints for PDE 
 
 #### Hackathons
 
-- Finalist @ Prosus & AISO AI University Games Hackathon (2025) — built [Gradent Study Assistant](https://github.com/flatala/gradent).
+- Finalist @ Prosus & AISO AI University Games Hackathon (2025) — built [Gradent Study Assistant (StudyBuddy)](https://github.com/flatala/gradent), a multi-agent AI study assistant.
 
 #### Connect
 
